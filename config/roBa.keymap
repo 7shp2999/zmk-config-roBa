@@ -113,7 +113,7 @@
 &trans  &trans  &trans  &trans  &trans                         &trans  &trans  &trans  &mkp MB1            &mkp MB2
 &trans  &trans  &trans  &trans  &trans  &trans      &kp PG_UP  &trans  &trans  &trans  &kp RA(LEFT_ARROW)  &kp RA(RIGHT_ARROW)
 &trans  &trans  &trans  &trans  &trans  &trans      &kp PG_DN  &trans  &trans  &trans  &kp RS(RC(TAB))     &kp RC(TAB)
-&trans  &trans  &trans  &trans  &trans  &trans      &trans     &trans                                      &trans
+&trans  &trans  &trans  &trans  &trans  &trans      &trans     &trans                                      &kp RC(W)
             >;
         };
 
